@@ -563,5 +563,15 @@
    "address": "0x21918461C6aecA5EAEc825B4746D64a0D4028dF6",
    "comment": "Scam address of phishing email sent to leaked Everex investor database",
    "date": "2017-09-05"
+},
+{
+   "address": "0x34959919244b18128d084834dBa11f0c91732eDe",
+   "comment": "FAKE_ETHERPARTY_1",
+   "date": "2017-10-02"
+},
+{
+   "address": "https://etherscan.io/address/0xd8819b8359aD323F5b3eAe0dc6b02085056B4E0b",
+   "comment": "FAKE_ETHERPARTY_2",
+   "date": "2017-10-02"
 }  
 ]
